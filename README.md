@@ -10,6 +10,7 @@
   
 ## Veja como ficou, How about?
 
-![Screenshot](./Capa.png)
+![alt tag](./img/Capa.png)
+
 
 Bye 👋
