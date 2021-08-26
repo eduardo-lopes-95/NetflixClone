@@ -6,5 +6,10 @@
 
 - [HTML 5]
 - [CSS 3]
+- [JQUERY]
+  
+## Veja como ficou, How about?
+
+![Screenshot](./Capa.png)
 
 Bye 👋
